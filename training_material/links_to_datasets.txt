@@ -1,0 +1,7 @@
+List of datasets for computing models for blob classification:
+
+http://lear.inrialpes.fr/people/marszalek/data/ig02/
+
+http://cbcl.mit.edu/software-datasets/CarData.html
+
+http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)
